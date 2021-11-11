@@ -1,0 +1,17 @@
+{
+  "name": "@seu-imovel-aqui/plugin-types",
+  "version": "1.0.0",
+  "description": "Seu imovel aqui base types for plugins",
+  "main": "dist/index.js",
+  "author": {
+    "name": "Everton Silva",
+    "url": "https://github.com/evertonlok"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
