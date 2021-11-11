@@ -1,10 +1,10 @@
 import { Address } from "./Address";
-import { Characteristics } from "./Characteristics";
+import { Characteristic } from "./Characteristic";
 import { PropertyImage } from "./PropertyImage";
 export declare type Property = {
     description: string;
     address: Address;
     type: string;
     images: PropertyImage[];
-    characteristics: Characteristics[];
+    characteristics: Characteristic[];
 };
