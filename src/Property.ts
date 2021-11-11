@@ -1,5 +1,5 @@
 import { Address } from "./Address";
-import { Characteristics } from "./Characteristics";
+import { Characteristic } from "./Characteristic";
 import { PropertyImage } from "./PropertyImage";
 
 export type Property = {
@@ -7,5 +7,5 @@ export type Property = {
     address: Address,
     type: string,
     images: PropertyImage[],
-    characteristics: Characteristics[]
+    characteristics: Characteristic[]
 }
