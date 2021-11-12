@@ -2,14 +2,19 @@
   "include": [
     "src"
   ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ],
   "compilerOptions": {
     "target": "ES2015",
-    "module": "ES2015",
+    "allowJs": true,
     "moduleResolution": "node",
     "declaration": true,
     "sourceMap": false,
+    "strict": true,
     "outDir": "./dist",
+    "baseUrl": ".",
     "noImplicitAny": false,
-    "emitDeclarationOnly": true
   }
 }
