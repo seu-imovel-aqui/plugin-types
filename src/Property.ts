@@ -3,9 +3,9 @@ import { Characteristic } from "./Characteristic";
 import { PropertyImage } from "./PropertyImage";
 
 export type Property = {
-    description: string,
-    address: Address,
-    type: string,
-    images: PropertyImage[],
-    characteristics: Characteristic[]
+   description: string,
+   address: Address,
+   type: string,
+   images: PropertyImage[],
+   characteristics: Characteristic[]
 }

@@ -1,4 +1,4 @@
 export type State = {
-    name: string,
-    uf: string
+   name: string,
+   uf: string
 }
