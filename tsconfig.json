@@ -8,6 +8,7 @@
   ],
   "compilerOptions": {
     "target": "ES2015",
+    "module": "CommonJS",
     "allowJs": true,
     "moduleResolution": "node",
     "declaration": true,
