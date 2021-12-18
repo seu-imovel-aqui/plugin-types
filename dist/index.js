@@ -13,6 +13,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 __exportStar(require("./Ad"), exports);
 __exportStar(require("./Address"), exports);
 __exportStar(require("./Characteristic"), exports);
+__exportStar(require("./CharacteristicMain"), exports);
 __exportStar(require("./Image"), exports);
 __exportStar(require("./Property"), exports);
 __exportStar(require("./PropertyImage"), exports);

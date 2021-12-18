@@ -1,6 +1,7 @@
 export * from "./Ad";
 export * from "./Address";
 export * from "./Characteristic";
+export * from "./CharacteristicMain";
 export * from "./Image";
 export * from "./Property";
 export * from "./PropertyImage";
