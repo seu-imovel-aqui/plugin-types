@@ -3,5 +3,6 @@ export enum CharacteristicMain {
    PARKING_SPACE = "vaga",
    BATHROOM = "banheiro",
    AREA = "area",
-   SUITE = "suíte"
+   SUITE = "suíte",
+   ALLOWS_ANIMALS = "permite animais"
 }

@@ -3,5 +3,6 @@ export declare enum CharacteristicMain {
     PARKING_SPACE = "vaga",
     BATHROOM = "banheiro",
     AREA = "area",
-    SUITE = "su\u00EDte"
+    SUITE = "su\u00EDte",
+    ALLOWS_ANIMALS = "permite animais"
 }

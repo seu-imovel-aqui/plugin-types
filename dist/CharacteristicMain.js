@@ -8,4 +8,5 @@ var CharacteristicMain;
     CharacteristicMain["BATHROOM"] = "banheiro";
     CharacteristicMain["AREA"] = "area";
     CharacteristicMain["SUITE"] = "su\u00EDte";
+    CharacteristicMain["ALLOWS_ANIMALS"] = "permite animais";
 })(CharacteristicMain = exports.CharacteristicMain || (exports.CharacteristicMain = {}));
