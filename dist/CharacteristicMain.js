@@ -7,4 +7,5 @@ var CharacteristicMain;
    CharacteristicMain["PARKING_SPACE"] = "vaga";
    CharacteristicMain["BATHROOM"] = "banheiro";
    CharacteristicMain["AREA"] = "area";
+   CharacteristicMain["SUITE"] = "su\u00EDte";
 })(CharacteristicMain = exports.CharacteristicMain || (exports.CharacteristicMain = {}));
